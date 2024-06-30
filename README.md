@@ -1,6 +1,6 @@
 # sentiment_analysis_Amazon_review
-Self-learning project
--NLP tasks like Sentiment analysis
--NLTK
--Hugging Face 
--Fine tuning 
+Self-learning project <br>
+-NLP tasks like Sentiment analysis <br>
+-NLTK <br>
+-Hugging Face <br> 
+-Fine tuning <br>
